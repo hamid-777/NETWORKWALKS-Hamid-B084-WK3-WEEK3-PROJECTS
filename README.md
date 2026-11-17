@@ -93,8 +93,7 @@ Two methods were performed:
 
 ### Screenshot
 
-![Johnny GUI Settings](<img width="1280" height="747" alt="jhonny" src="https://github.com/user-attachments/assets/a8965e89-c06c-473b-bd39-9b2330905b33" />
-)
+(<img width="1280" height="747" alt="jhonny" src="https://github.com/user-attachments/assets/a8965e89-c06c-473b-bd39-9b2330905b33" />)
 
 ## Step 9 – Verify the Recovered Password
 
