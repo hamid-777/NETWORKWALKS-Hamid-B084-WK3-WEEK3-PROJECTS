@@ -91,6 +91,11 @@ Two methods were performed:
 
 **Note:** The time required depends on the password complexity and computer performance.
 
+### Screenshot
+
+![Johnny GUI Settings](<img width="1280" height="747" alt="jhonny" src="https://github.com/user-attachments/assets/a8965e89-c06c-473b-bd39-9b2330905b33" />
+)
+
 ## Step 9 – Verify the Recovered Password
 
 1. Open the encrypted PDF.
