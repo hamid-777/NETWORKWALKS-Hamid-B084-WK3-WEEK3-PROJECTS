@@ -93,13 +93,21 @@ Two methods were performed:
 
 ### Screenshot
 
-(<img width="1280" height="747" alt="jhonny" src="https://github.com/user-attachments/assets/a8965e89-c06c-473b-bd39-9b2330905b33" />)
+<img width="1280" height="747" alt="jhonny" src="https://github.com/user-attachments/assets/a8965e89-c06c-473b-bd39-9b2330905b33" />
 
 ## Step 9 – Verify the Recovered Password
 
 1. Open the encrypted PDF.
 2. Enter the recovered password.
 3. Verify that the PDF opens successfully.
+
+### Screenshots
+
+<img width="1917" height="1185" alt="pdf1" src="https://github.com/user-attachments/assets/4c12620f-330b-4381-a32b-18a9a956afcd" />
+
+<img width="1917" height="1167" alt="pdf2" src="https://github.com/user-attachments/assets/5b029aea-d86e-4680-82e8-9518ddd8aad4" />
+
+<img width="1917" height="1172" alt="pdf3" src="https://github.com/user-attachments/assets/23ea070b-f2b3-4ba2-ba81-19a31fb2dd83" />
 
 ---
 
@@ -138,6 +146,11 @@ Two methods were performed:
 4. Review the recovered password displayed on the screen.
 
 **Note:** The time required depends on password complexity and the resources available to the tool.
+
+### Screenshot
+
+<img width="1917" height="1117" alt="NW password cracker" src="https://github.com/user-attachments/assets/054ac2bc-a688-4aa3-b7f3-7431b447a2ec" />
+
 
 ## Step 6 – Verify the Password
 
